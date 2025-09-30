@@ -1,0 +1,63 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_Xnf7gw": {
+          "type": "link_list",
+          "settings": {
+            "heading": "PRODUCTS",
+            "menu": "products"
+          }
+        },
+        "link_list_9jUy3C": {
+          "type": "link_list",
+          "settings": {
+            "heading": "ABOUT",
+            "menu": "about"
+          }
+        },
+        "link_list_aVD8cy": {
+          "type": "link_list",
+          "settings": {
+            "heading": "SUPPORT",
+            "menu": "support"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_Xnf7gw",
+        "link_list_9jUy3C",
+        "link_list_aVD8cy"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "newsletter_enable": true,
+        "newsletter_heading": "Hey, Hola, Bonjour. Become a July local.Sign up and receive updates, including collection launches, early access to products and more.",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

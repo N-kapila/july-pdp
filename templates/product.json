@@ -1,0 +1,303 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "collapsible_tab_bxXPRE": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "OVERVIEW",
+            "icon": "none",
+            "content": "<p>Our signature case, where it all began.<br/>Designed to hold the maximum amount that’s allowed inside the cabin with you. It has an ejectable battery that is approved for flying across all major airlines. Safe to fly, a joy to carry.</p><p>Length of trip: 5-7 days<br/>Capacity: 6-8 outfits</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_RUPTWy": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "FEATURES",
+            "icon": "none",
+            "content": "<ul><li>Ejectable battery with USB-C</li><li>Aerospace-grade, German polycarbonate shell</li><li>Reinforced bumpers</li><li>20-height multi-stop telescopic handle</li><li>Integrated TSA lock</li><li>SilentMoveTM wheels</li><li>Hidden stain-proof laundry bag</li><li>July Y-Strap compression system</li><li>Water-resistant and stain-proof nylon lining</li><li>Leather finishes on the nylon straps and hinge</li><li>YKK Japanese zippers</li><li>Lifetime warranty, 100 day returns, and free shipping across New Zealand</li></ul><p><a href=\"https://july.com/nz/compare-carry-on-luggage/\">COMPARE ALL Carry On's</a><a href=\"https://help-nz.july.com/en-GB/when-will-i-receive-my-order-344096\">Free Shipping</a>・<a href=\"https://help-nz.july.com/en-GB/articles/returns-&-exchanges-98123\">Free Returns</a>・<span style=\"text-decoration:underline\">Airline Compatibility</span></p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_hYKcTG": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "SPECS",
+            "icon": "none",
+            "content": "<p><strong>External dimensions including wheels:</strong><br/>55cm H x 38.5cm W x 21.5cm D<br/><strong>Internal dimensions excluding wheels:</strong><br/>51cm H x 37cm W x 21.5cm D<br/><strong>Weight: </strong>3.4kg<br/><strong>Capacity: </strong>42L</p><p>Total linear dimensions 115cm (approved to fit as carry-on for all Australian and International standards)</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_4Hk4pX": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "LIFETIME WARRANTY",
+            "icon": "none",
+            "content": "<p>We stand by the quality of every July product with unmatched warranty commitments.</p><ul><li>A <a href=\"https://july.com/faqs/#product-warranties\">lifetime warranty</a> on manufacturing faults.</li><li><a href=\"https://july.com/faqs/#return-policy\">100 day returns</a> for unpersonalised items.</li></ul><p> </p><p>Free shipping across New Zealand for orders above $100.</p><ul><li><a href=\"https://july.com/au/faqs/#shipping-and-delivery\">View delivery timeframes.</a></li></ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share",
+        "collapsible_tab_bxXPRE",
+        "collapsible_tab_RUPTWy",
+        "collapsible_tab_hYKcTG",
+        "collapsible_tab_4Hk4pX"
+      ],
+      "custom_css": [],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "gallery_layout": "columns",
+        "mobile_thumbnails": "hide",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "product_features_HTqRMi": {
+      "type": "product-features",
+      "blocks": {
+        "feature_CWNzHM": {
+          "type": "feature",
+          "settings": {
+            "feature_video": "https://cdn.shopify.com/videos/c/o/v/503111edb7704597bb96abea2a5cee72.mp4",
+            "title": "Ejectable battery with USB-C",
+            "text": "A cleverly designed ejectable battery with USB-C docks that charges both your phone and your laptop. The Carry On and power bank are allowed anywhere your mobile phone is. Approved for any flight in the world."
+          }
+        },
+        "feature_nzxEaT": {
+          "type": "feature",
+          "settings": {
+            "feature_video": "https://cdn.shopify.com/videos/c/o/v/67f1f8a8d7b049469b4c1cb16fecd292.mp4",
+            "title": "SilentMove™ Wheels",
+            "text": "When we couldn't find the perfect wheels there was only one solution – design it ourselves. Introducing SilentMove 360° spinner wheels. Extremely quiet, they can handle the cobblestones of Europe, and have a lifetime guarantee."
+          }
+        },
+        "feature_RbcEAw": {
+          "type": "feature",
+          "settings": {
+            "feature_video": "https://cdn.shopify.com/videos/c/o/v/c60d071c6fe843ffab0aed236ecc63cf.mp4",
+            "title": "Y-Strap Compression System",
+            "text": "We've made it easy to pack more into your trip. Our July Y-Strap Compression System provides a heavy-duty strap that pulls down to create more space in your case. All our lining is stain-resistant making any accidents easy to clean up too."
+          }
+        }
+      },
+      "block_order": [
+        "feature_CWNzHM",
+        "feature_nzxEaT",
+        "feature_RbcEAw"
+      ],
+      "name": "Product Features",
+      "settings": {
+        "heading": "Details you’ll love."
+      }
+    },
+    "multicolumn_WcMT7F": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_78fmPf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/July_V01_Heritage_Trunks_Landing_Pages_What_we_love_1_6d450b03d6.svg",
+            "title": "KEEP YOUR LAUNDRY AT BAY",
+            "text": "<p>Every case features a hidden laundry bag that is odour-proof and compresses down to keep your worn items hidden and the rest of your clothes crisp clean.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fE6nzY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/July_V01_Heritage_Trunks_Landing_Pages_What_we_love_2_0e786b0e98.svg",
+            "title": "COMFORT IN YOUR HANDS",
+            "text": "<p>Our multi-stop telescopic handle stops wherever you want it to. With a soft-to-touch rubber handle making it a pleasure to hold.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gzXTFG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/July_V01_Heritage_Trunks_Landing_Pages_What_we_love_3_b013cd839c.svg",
+            "title": "PERFECT ON THE INSIDE TOO",
+            "text": "<p>We've made it easy to pack more into your trip. Our July Y-Strap Compression System provides a heavy-duty strap that pulls down to create more space in your case.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_78fmPf",
+        "column_fE6nzY",
+        "column_gzXTFG"
+      ],
+      "custom_css": [],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_QBKycV": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UrjDnF": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_9TAnqL": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_ECAkmY": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify://policies/privacy-policy",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UrjDnF",
+        "text_9TAnqL",
+        "buttons_ECAkmY"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Desktop_Female_COPB_07b180bca1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "product_features_HTqRMi",
+    "multicolumn_WcMT7F",
+    "image_banner_QBKycV"
+  ]
+}
